@@ -1,0 +1,2 @@
+1.Install python and create a virtual environment
+2.pip install -r requirements.txt to install all the depenencies in your venv
